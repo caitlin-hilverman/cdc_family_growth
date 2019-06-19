@@ -1,10 +1,6 @@
 # dataincubator
 
-This folder contains the figures and proposal for the Data Incubator semi-final round. I plan to make code and data available once time allows. 
-
-Proposal: 
-
-Data Incubator Semi-Final Challenge, Part 3: Exploratory Analyses with the CDC's National Survey of Family Growth 
+This repo contains the code and figures for a side project that I am working on exploring parenting decisions using the CDC's National Survey for Family Growth. 
 
 Becoming a parent requires making a myriad of decisions regarding pregnancy, birth, and child-rearing in infancy. Parents and parents-to-be are bombarded with information from friends, family, and medical professionals on how to best birth, feed, and care for their children. The American Academy of Pediatrics (AAP) routinely updates their recommendations regarding safe and healthy child-rearing decisions with the aim to maximize the health and outcomes of infants. Yet parents still seek information and advice from people who are not medical professionals in making their parenting decisions. I aim to explore how parents from different social groups make parenting decisions and how these decisions have been affected by AAP recommendations over time.  
 

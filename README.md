@@ -1,4 +1,4 @@
-# dataincubator
+# Exploring parenting choices - National Survey for Family Growth
 
 This repo contains the code and figures for a side project that I am working on exploring parenting decisions using the CDC's National Survey for Family Growth. 
 
